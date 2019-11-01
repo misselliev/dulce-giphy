@@ -4,7 +4,7 @@ Landing page to fetch gifs from Giphy's API.
 
 ## Live
 
-Still a work in progress! Meanwhile you can browse through more projects in my portfolio [here](https://misselliev-portfolio.herokuapp.com/)
+You can test drive it [here](https://misselliev.github.io/dulce-giphy/) or you can browse through more projects in my portfolio [here](https://misselliev-portfolio.herokuapp.com/)
 
 ## Developer
 
