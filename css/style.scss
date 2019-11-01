@@ -4,9 +4,32 @@ body {
   text-align: center;
 }
 
+.header {
+  font-family: 'Courgette',
+    cursive;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Roboto',
+    sans-serif;
+}
+
 .container {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 10vh;
+}
+
+.show {
+  visibility: visible;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.box {
+  font-size: 1.5rem;
 }
